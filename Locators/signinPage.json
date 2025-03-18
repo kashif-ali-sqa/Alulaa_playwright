@@ -1,0 +1,11 @@
+{
+    "emailFieldSelector" :"input[type='text']",
+    "passwordFieldSelector":"input[type='password']",
+    "ClickloginBtn":"button:has-text('Log in')",
+    "expandMoreButton":"div.hidden.md\\:flex span.material-symbols-outlined",
+    "loggedinUserName": "//div[@class='text-base font-normal text-gray-500 mt-2 max-w-",
+    "clickProfileIcon" : "//div[@class='hidden md:flex']//span[contains(@class,'material-symbols-outlined')][normalize-space()='expand_more']"
+
+
+
+}

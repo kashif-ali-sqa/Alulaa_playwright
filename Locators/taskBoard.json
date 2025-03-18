@@ -1,0 +1,20 @@
+{
+    "clickTaskBoardBtn":"//span[normalize-space()='Tasks Board']",
+    "clickCreateTaskBtn":"//span[@class='hidden md:block']",
+    "enterTaskTitle":"//input[@name='title']",
+    "enterTaskDescription":"textarea.flex-grow.p-2.outline-none.rounded-lg",
+    "clickDrawerCreateTaskBtn": "//button[normalize-space()='Create Task']",
+    "clickCompletedBtn": "//span[normalize-space()='Completed']",
+    "toastMessageCreateTask": "//span[normalize-space()='Task has been created']",
+    "clickTaskEllipsesicon" : "//button[normalize-space()='more_vert']",
+    "deletedTaskMessage": "//span[normalize-space()='Task has been deleted']",
+    "clickTaskownershipBtn": "//button[normalize-space()='Take ownership']",
+    "taskOwnershipMessage": "//span[normalize-space()='Task owner has been updated']",
+    "clickStatusDropdown": "(//span[contains(text(),'To do')])[2]",
+    "clickCompletedStatusBtn" : "(//button[contains(@class,'flex items-center px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 w-full')])[2]",
+    "taskStatusUpdatedMessage" : "(//div[@class='Toastify'])[1]"
+
+
+
+
+}

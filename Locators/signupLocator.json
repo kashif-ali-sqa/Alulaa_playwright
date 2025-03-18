@@ -1,0 +1,7 @@
+{
+    "createAccountBtn": "//button[normalize-space()='Create account']",
+    "signupCheckbox": "//input[@type='checkbox']",
+    "clickSignupBtn":"//button[normalize-space()='Sign up']",
+    "enterCreatePasswordField":"//input[@placeholder='Create password']",
+    "enterCodeField":"//input[@placeholder='000000']"
+}

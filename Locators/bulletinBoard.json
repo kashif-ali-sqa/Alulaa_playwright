@@ -1,0 +1,18 @@
+{
+"clickWhatsOnYourMindField":"//p[@class='text-gray-400 text-base font-normal']",
+
+"enterPostText": ".overflow-auto > .editor > div > .tiptap > .is-empty",
+
+"clickPostBtn": "//button[normalize-space()='Post']",
+"createdPostMessage" : "//div[@class='Toastify']",
+"clickPostEllipsesIcon": "//div[contains(@class,'flex h-screen relative md:bg-dark-green-700')]//div[2]//div[1]//div[1]//div[2]//button[1]//span[1]",
+"clickPostDeleteBtn":"//button[normalize-space()='Delete']",
+"clickModalDeleteBtn":"//div[@id='modal-portal']//button[2]",
+"deletedPostMessage": "//span[normalize-space()='Post has been deleted']",
+"clickEditPostBtn":"//button[normalize-space()='Edit post']",
+"clickUpdatePostBtn":"//button[normalize-space()='Update']",
+"updatePostMessage":"//span[normalize-space()='Post has been updated']",
+"clickLikedBtn": "(//span[contains(@class,'material-symbols-outlined text-base')][normalize-space()='favorite'])[1]",
+"enterTextRepliedBox": "(//div[@role='textbox'])[1]",
+"replyToastMessage": "//span[normalize-space()='Comment added successfully']"
+}

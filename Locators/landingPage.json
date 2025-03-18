@@ -1,0 +1,4 @@
+{
+  "baseURL": "https://uat.alulaathome.com/",
+  "loginBTN": "button:text('Log in')"
+}

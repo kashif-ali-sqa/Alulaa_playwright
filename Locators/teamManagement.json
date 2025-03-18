@@ -1,0 +1,22 @@
+{
+  "clickSwitchCarespaceDropdownicon": "//span[@class='material-symbols-outlined'][normalize-space()='expand_more']",
+  "clickOtherCarespaceBtn": "//div[contains(text(),'tffee')]",
+  "clickTeamManagementlink": "//span[normalize-space()='Team Management']",
+  "clickAddCareRecipientBtn": "button:has-text('Add a Care Recipient')",
+  "enterCareRecipientName": "//input[@placeholder=\"Enter care recipient's full name\"]",
+  "clickInviteBtn": "//button[contains(@class,'!bg-secondary-100 hover:!bg-secondary-300 border border-primary text-grey-900 !rounded-lg')]",
+  "enterCareRecipientEmail": "//input[@placeholder=\"Enter care recipient's email address\"]",
+  "clickAddBtn": "//button[normalize-space()='Add']",
+  "careRecipientAddedToastMessage":"//span[normalize-space()='Care recipient has been added successfully.']",
+  "toastMessageAlreadyInvitedUser": "//span[normalize-space()='User is already exist in the carespace']",
+  "clickCareGiversBtn": "(//p[contains(@class,'md:text-base text-sm font-medium text-gray-900 whitespace-nowrap')])[2]",
+  "clickAddCareGiverBtn": "(//button[contains(@class,'text-[#2D5158] text-base font-medium flex justify-center items-center gap-[10px] border-dashed border border-gray-300 rounded-xl p-8 w-full mt-4 hover:bg-gray-50')])[1]",
+  "enterCareGiverEmail": "//input[@placeholder='Enter emails here']",
+  "clickSendInviteBtn": "//button[normalize-space()='Send Invite']",
+  "careGiverInvitedToastMessage":"//span[normalize-space()='Caregiver has been invited successfully.']",
+  "alreadyInvitedemail": "(//span[@class='text-red-500 text-sm'])[1]",
+  "clickCareGiverEllipsesIcon" :"(//button[contains(@class,'material-symbols-outlined text-gray-500')][normalize-space()='more_vert'])[1]",
+  "clickRemoveCareGiverBtn" : "//button[normalize-space()='Remove']",
+  "clickRemoveMemberBtn" : "//button[contains(@class,'bg-red-700 text-white text-lg font-medium rounded-lg xs:px-2')]",
+  "removeMemberToastMessage":"//span[normalize-space()='Member removed successfully.']"
+}

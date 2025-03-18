@@ -1,0 +1,8 @@
+{
+    "fullName" :"input[placeholder='Enter your full name']",
+  "phoneNumber":"input[placeholder='1 (702) 123-4567']",
+  "continueButton": "button.bg-primary-800",
+  "forYourSlef":"div.text-center.text-gray-900.text-lg.font-medium",
+  "clickJump":"//button[normalize-space()='Jump right in']"
+
+}
